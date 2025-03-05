@@ -59,16 +59,18 @@ During the product life, components may fail needing repair or upgrade. Here the
 
 # Circuit Diagram
 
+![WhatsApp Image 2025-03-05 at 13 20 37_76988f8d](https://github.com/user-attachments/assets/e87b507d-d8d8-4d2e-8f39-90e6be7c5418)
 
 
 
 # Output
 
+![image](https://github.com/user-attachments/assets/0778a70a-df6f-4c10-8a3c-c0bc618e5479)
 
 
 
 
 # Result 
-Thus the bill of materials is prepared for the given PCB circuit.
+Thus the bill of materials is prepared for the given 4 Relay Driver Circuit.
 
 
